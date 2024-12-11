@@ -1,16 +1,16 @@
-# yuotube_tt_proje_1
+## Flutter - Hive LocalDatabase TodoApp
 
-A new Flutter project.
+Information :
+  An application where I assign myself daily tasks using Flutter 
+ 
+Packages Used :
+- Hive
+- Animate_do
+- Flutter_slider_drawer
+- Panara_dialogs
+- Flutter_datetime_picker_plus
 
-## Getting Started
+ ## Application Design <br>
+<img src="https://i.hizliresim.com/nfsn70x.png" width="50%"><br>
+<img src="https://i.hizliresim.com/kmcca5g.png" width="50%">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
